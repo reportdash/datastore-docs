@@ -14,5 +14,13 @@
         ]
       }
     ]
+  },
+  "fonts": {
+    "heading": {
+      "family": "Inter"
+    },
+    "body": {
+      "family": "Open Sans"
+    }
   }
 }

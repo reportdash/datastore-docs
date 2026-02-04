@@ -10,7 +10,8 @@
       {
         "group": "Getting Started",
         "pages": [
-          "home"
+          "home",
+          "query-credits"
         ]
       }
     ]

@@ -3,7 +3,8 @@
   "theme": "mint",
   "name": "ReportDash DataStore Docs",
   "colors": {
-    "primary": "#0D9373"
+    "primary": "#0D9373",
+    "light": "#FFE019"
   },
   "navigation": {
     "groups": [

@@ -27,6 +27,9 @@
       "family": "Open Sans"
     }
   },
-  "logo": "/images/BlackLogo(Color).png",
+  "logo": {
+    "light": "/images/BlackLogo(Color).png",
+    "dark": "/images/WhiteLogo(Color).png"
+  },
   "favicon": "/images/ColorIcon@2x.png"
 }

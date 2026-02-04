@@ -1,3 +1,45 @@
 ---
 title: "ReportDash Documentation"
 ---
+
+## What is ReportDash DataStore?
+
+ReportDash DataStore is a pre-fetched analytics data warehouse built for marketing teams and agencies.
+
+Instead of querying ad platforms in real time, DataStore loads, stores, and refreshes historical marketing data in advance—so dashboards stay fast, reliable, and scalable.
+
+### Why DataStore exists
+
+Most marketing tools fetch data live from APIs. This causes slow dashboards, rate-limit issues, and repeated re-fetching of the same data.
+
+DataStore solves this by preloading data once and refreshing it incrementally.
+
+### What DataStore does
+
+- Connects to marketing platforms
+- Loads months or years of historical data
+- Refreshes new data on a schedule
+- Stores data in structured tables
+- Exports data to BI tools
+
+### Key concepts
+
+**Sources** – Connected platform accounts  
+**Tables** – Campaign, ad, and metric datasets  
+**Versions** – Schema-safe table versions  
+**Data Views** – Custom joins and transformations
+
+### Where the data goes
+
+- BigQuery  
+- Looker Studio  
+- Google Sheets  
+
+Dashboards query warehouse data directly—not APIs.
+
+### Who DataStore is for
+
+- Digital marketing agencies  
+- Growth teams  
+- Performance marketers  
+- Analytics teams supporting marketing

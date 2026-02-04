@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "R",
+  "name": "ReportDash DataStore Documentation",
   "colors": {
     "primary": "#3469d4",
     "light": "#FFE019",

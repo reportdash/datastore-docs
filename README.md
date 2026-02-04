@@ -1,1 +1,3 @@
-# datastore-docs
+# ReportDash DataStore Documentation
+
+## Powered by Mintlify

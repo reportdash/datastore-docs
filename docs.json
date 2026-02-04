@@ -31,5 +31,13 @@
     "light": "/images/BlackLogo(Color).png",
     "dark": "/images/WhiteLogo(Color).png"
   },
-  "favicon": "/images/ColorIcon@2x.png"
+  "favicon": "/images/ColorIcon@2x.png",
+  "navbar": {
+    "links": [
+      {
+        "label": "Login",
+        "href": "https://datastore.reportdash.com"
+      }
+    ]
+  }
 }

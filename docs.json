@@ -10,7 +10,7 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting Started",
+        "group": "ReportDash DataStore Documentation",
         "pages": [
           "home",
           "query-credits"

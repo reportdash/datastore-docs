@@ -1,14 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "ReportDash DataStore Docs",
+  "name": "ReportDash DataStore Documentation",
   "colors": {
-    "primary": "#0D9373"
+    "primary": "#3469d4",
+    "light": "#FFE019",
+    "dark": "#afafaf"
   },
   "navigation": {
     "groups": [
       {
-        "group": "Getting Started",
+        "group": "ReportDash DataStore Documentation",
         "pages": [
           "home",
           "query-credits"
@@ -17,11 +19,25 @@
     ]
   },
   "fonts": {
+    "family": "Open Sans",
     "heading": {
       "family": "Open Sans"
     },
     "body": {
       "family": "Open Sans"
     }
+  },
+  "logo": {
+    "light": "/images/BlackLogo(Color).png",
+    "dark": "/images/WhiteLogo(Color).png"
+  },
+  "favicon": "/images/ColorIcon@2x.png",
+  "navbar": {
+    "links": [
+      {
+        "label": "Login",
+        "href": "https://datastore.reportdash.com"
+      }
+    ]
   }
 }

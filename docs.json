@@ -17,6 +17,7 @@
     ]
   },
   "fonts": {
+    "family": "Open Sans",
     "heading": {
       "family": "Open Sans"
     },
